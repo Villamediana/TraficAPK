@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "notes": "Prévia de obra ao vivo: a rua nova aparece pronta e as vias se abrem e se ligam enquanto você arrasta",
+  "versionCode": 7,
+  "versionName": "0.6.1",
+  "notes": "Borda do mapa em névoa, terreno e árvores não somem mais ao minimizar ou dar zoom, tocar de novo na opção solta a ferramenta",
   "apk": "https://raw.githubusercontent.com/Villamediana/TraficAPK/main/trafic.apk",
-  "sha256": "f67b1672b60c3a9f6031b44ce8daa21ba670c528dff7a14cd77c4eb96a379d28"
+  "sha256": "d7462b0fbc0ad1e203751ca3951e7e3a0ead3b3bdbeab0cac45cc320643c5cd4"
 }
