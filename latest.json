@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.7.0",
-  "notes": "Biomas bem diferentes (campos, lagoas turquesa, deserto, neve), estrada única que curva com o dedo, botões maiores",
+  "versionCode": 9,
+  "versionName": "0.7.1",
+  "notes": "Barra de baixo de volta ao carrossel, maior; estrada sobe sozinha sobre água e pedra; faixa e ônibus sem botões (tocar/segurar); quadra num gesto só",
   "apk": "https://raw.githubusercontent.com/Villamediana/TraficAPK/main/trafic.apk",
-  "sha256": "5d67c43f761e6249bbd6f90f6a21a710674382ea79bb19a4a67399ef77a44568"
+  "sha256": "506d41788fef4e4415d2a2702396f2aa000a97e660d5074811d6bc87fab412c1"
 }
