@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.6.1",
-  "notes": "Borda do mapa em névoa, terreno e árvores não somem mais ao minimizar ou dar zoom, tocar de novo na opção solta a ferramenta",
+  "versionCode": 8,
+  "versionName": "0.7.0",
+  "notes": "Biomas bem diferentes (campos, lagoas turquesa, deserto, neve), estrada única que curva com o dedo, botões maiores",
   "apk": "https://raw.githubusercontent.com/Villamediana/TraficAPK/main/trafic.apk",
-  "sha256": "d7462b0fbc0ad1e203751ca3951e7e3a0ead3b3bdbeab0cac45cc320643c5cd4"
+  "sha256": "5d67c43f761e6249bbd6f90f6a21a710674382ea79bb19a4a67399ef77a44568"
 }
