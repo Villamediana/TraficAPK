@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.1",
-  "notes": "Barra de baixo de volta ao carrossel, maior; estrada sobe sozinha sobre água e pedra; faixa e ônibus sem botões (tocar/segurar); quadra num gesto só",
+  "versionCode": 10,
+  "versionName": "0.8.0",
+  "notes": "Som de ambiente no lugar da música: carros, motos, caminhões, ônibus, pássaros, vento, grilos, água e chuva crescendo com a cidade; zoom com um dedo (toque duplo e arraste)",
   "apk": "https://raw.githubusercontent.com/Villamediana/TraficAPK/main/trafic.apk",
-  "sha256": "506d41788fef4e4415d2a2702396f2aa000a97e660d5074811d6bc87fab412c1"
+  "sha256": "05a78bfd407b5160d3b63bf3ecdec7bfbfa84cca996381c3f514474c9b6ef85a"
 }
